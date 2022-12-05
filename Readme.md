@@ -1,4 +1,4 @@
-# Using CLIP for zero-shot learning, text & visual prompting
+# Zero-shot learning & prompting with CLIP
 
  ## Description
  This repo performs a range of image classification tasks using [CLIP](https://github.com/openai/CLIP).
